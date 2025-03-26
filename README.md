@@ -5,7 +5,7 @@
 - Aqui você encontrará alguns desafios que realizei em um curso que fiz.
 - São exercícios simples realizados para conhecer um pouco mais sobre  a linguagem.
 
-# Instalação para utilizar a linguagem:
+# Instalação para utilizar a linguagem
 
 - Escolha uma IDE local ou online.
 - A online como sugestão deixo: [link](https://replit.com/).
@@ -15,4 +15,4 @@
 
 ## Sobre mim
 
-Olá me chamo Helen Zanco Neis, estudo e amo a área da tecnologia!
+Olá, me chamo Helen Zanco Neis, estudo e amo a área da tecnologia!
